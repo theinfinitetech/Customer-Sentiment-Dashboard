@@ -1,0 +1,6 @@
+{
+  "name": "Customer Sentiment Dashboard",
+  "description": "An AI-powered full-stack Customer Sentiment Dashboard. Paste raw customer reviews to extract insights, chart sentiment trends over time, visualize praise and complaints, and generate executive summaries with actionable steps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
