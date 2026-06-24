@@ -1,12 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# View
+https://customer-sentiment-dashboard-748003535404.asia-southeast1.run.app
 
-# Run and deploy your AI Studio app
+# Run and deploy AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/40b94e00-d972-488b-a113-486e497b2d3f
+View this app in AI Studio: https://ai.studio/apps/40b94e00-d972-488b-a113-486e497b2d3f
 
 ## Run Locally
 
